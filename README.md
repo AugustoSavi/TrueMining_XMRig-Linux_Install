@@ -4,15 +4,8 @@
 To clone and run this application, you'll need [Git](https://git-scm.com),. From your command line:
 
 ```bash
-#Verifique se você tem o python instalado
+#Verifique se você tem o python3 instalado
 $ python3 --version
-
-#caso não o tenha instalado, sigo os seguintes passos
-$ sudo apt-get update
-$ sudo apt-get install python3.6
-
-# instale o tkinter(Usado para gerar a interface grafica)
-$ sudo apt install python3-tk
 
 # Clone esse repositorio
 $ git clone https://github.com/AugustoSavi/TrueMining_XMRig-Linux_Install.git
@@ -24,6 +17,13 @@ $ cd TrueMining_XMRig-Linux_Install
 $ python3 main.py
 ```
 ## :information_source: Como Utilizar o Programa :information_source:
+
+
+### :information_source: ChangeLog: :information_source:
+
+adcionando interface grafica:
+
+![image](https://user-images.githubusercontent.com/32443720/108798444-94e6bf00-756c-11eb-9a20-326f2bee79cd.png)
 
 
 <!--
